@@ -1,0 +1,14 @@
+{
+  "exclude": [
+    "**/bin",
+    "**/bower_components",
+    "**/jspm_packages",
+    "**/node_modules",
+    "**/obj",
+    "**/platforms"
+  ],
+  "weatherapi": {
+    "ClientID": "ClientID from MyOwnConfig.json",
+    "ClientSecret": "ClientSecret from MyOwnConfig.json"
+  }
+}
